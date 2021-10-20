@@ -1,0 +1,197 @@
+body {
+  margin:0 ;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Montserrat',sans-serif;
+  color: black;
+ }
+h1 {
+  font-size: 1.8em;
+  font-family: 'Merriweather', serif;
+  color: rgb(92, 91, 91);
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  color: rgb(92, 91, 91);
+  line-height: 22px;
+  margin: 10px 5px;
+}
+
+h2.warning{
+   font-size:1.5em;
+   font-family:'Merriweather', serif;
+   background-color:#B4D1A3;
+   color: rgb(92, 91, 91);
+   margin:0;
+   margin-top:80px; 
+   padding-top:20px;
+   height:50px;
+   width:100%; 
+}
+.logo{
+  float:right;
+  margin:0;
+}
+hr {
+  background-color: rgba(116, 177, 177, 0.842);
+  border:none;
+  
+ }
+
+nav{
+  overflow: hidden;
+  position: fixed; 
+  top: 0;
+  width:100%;
+}
+ul.navList {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  height: 80px;
+  background-color: rgb(50, 141, 141);
+  color: #fff;
+}
+li.navlist {
+  float: left;
+}
+
+a.pagelink{
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 29px 40px;
+  text-decoration: none;
+  font-size:1.0em;
+  }
+
+a.pagelink:hover{
+  background-color:#AEBAA1;
+}
+.titleline{
+  font-size:3.0em;
+  
+}
+
+.tagline {
+  font-size: 1.8em;
+}
+.homepage {
+  padding: 15% 12%;
+  margin-top: 80px;
+  color: rgb(92, 91, 91);
+  overflow: hidden;
+  
+}
+h1.aboutme{
+  text-align:center;
+  margin:10px;
+}
+.aboutpage {
+  padding: 8%;
+  margin-top: 10px;
+  color: rgb(92, 91, 91);
+  overflow: hidden;
+  
+  }
+.courses{
+  margin-top:30px;
+  text-align:left;
+}
+.courseslist{
+  list-style:none;
+  text-align:left;
+}
+.ordered{
+  list-style:lower-alpha;
+}
+a.pagelink1{
+  text-decoration:none;
+}
+.aboutme {
+  margin: 10px;
+  padding: 0;
+  text-align: left;
+}
+.table{
+  border-style:solid;
+  border-width:10px;
+  border-color:rgb(92, 91, 91);
+  margin-top:30px;
+  width:60%;  
+}
+.table th, .table td{
+  border-style:solid;
+  border-width:5px;
+  border-color:rgb(92, 91, 91);
+}
+.stack{
+  font-size:1.8em;
+}
+.languagelist{
+  margin: 100px;
+}
+ul.languages {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top:150px;
+  }
+.projectspage{
+  padding: 8%;
+  margin-top: 10px;
+  color: rgb(92, 91, 91);
+  overflow: hidden;
+  
+ }
+.projectgroup {
+  padding: 3% 0;
+  margin: 30px 0;
+}
+.subwaytable{
+  margin:100px;
+}
+iframe{
+  margin-left:200px;
+  width:400px;
+  height:400px;
+}
+.contactpage{
+  margin-top:150px;
+  margin-bottom:150px;
+}
+.contactinfo{
+  text-align: right;
+  font-size: 27px;
+  margin: 50px 10px 50px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+footer{
+  margin-top:100px;
+  font-size:1.3em;
+  text-align:center;
+}
+
+
+div.check{
+  text-align:left;
+}
+div.rateme{
+  text-align:left;
+}
+table.userip{
+  border-style:solid;
+  border-width:10px;
+  border-color:rgb(92, 91, 91);
+  margin-top:30px;
+  width:20%;  
+  
+}
+.userip th, .userip td{
+  border-style:solid;
+  border-width:5px;
+  border-color:rgb(92, 91, 91);
+}

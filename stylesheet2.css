@@ -1,0 +1,80 @@
+body{
+	text-align:center;
+	font-size:18px;
+	margin:0;
+	border-style:solid;
+	border-width:40px;
+	border-color:rgb(50, 141, 141);
+	font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+	
+ul.navList {
+	  list-style-type: none;
+	  margin:0;
+	  padding:0;
+	  height: 80px;
+	  background-color: rgb(50, 141, 141);
+	  color: #fff;
+
+  
+}
+li.navlist {
+	  float: left;
+	  margin:0;
+  }
+a.pagelink{
+	  display:block;
+	  color: white;
+	  text-align: center;
+	  padding: 10px 20px;
+	  text-decoration: none;
+	  font-size:1.0em;
+  }
+
+a.pagelink:hover{
+	  background-color:#AEBAA1;
+}
+header{
+	text-align:center;
+	color:rgb(92, 91, 91);
+	font-size:2em;
+	font-family: 'ZCOOL XiaoWei',serif;
+
+}
+
+p{
+	color:rgb(92, 91, 91);
+
+}
+h3{
+	 font-size:1.5em;
+	 color:rgb(92, 91, 91);
+	 font-family:'ZCOOL XiaoWei',serif;
+}
+.parisimgs{
+	  list-style: none;
+	  padding:30px;
+    
+}
+.londonimgs{
+	 list-style: none;
+	 padding:30px;
+    
+}
+#margaretlondon{
+	margin-right:50px;
+}
+
+.eiffel2{
+	    list-style:none;
+	    padding:0;  
+}
+ li{
+	  padding:5px;
+ }
+footer{
+	  margin-top:100px;
+	  margin-bottom:100px;
+	  font-size:1.3em;
+}
+
